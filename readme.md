@@ -24,3 +24,9 @@
 
     git push -u origin master
     или нажать ctrl+shift+k
+    
+Клонирование удаленного репозитория
+
+   git clone https://github.com/fructusmortus/starter.git
+   
+   git clone ... путь до удаленного репозитория
