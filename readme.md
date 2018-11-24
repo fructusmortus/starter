@@ -15,3 +15,12 @@
 инициализация пустого репозитория
 
    git init
+   
+Добавление удаленного репозитория
+    
+    git remote add origin https://github.com/fructusmortus/starter.git
+    
+Чтобы запушить нужно написать
+
+    git push -u origin master
+    или нажать ctrl+shift+k
